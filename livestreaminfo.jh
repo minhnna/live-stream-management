@@ -1,5 +1,5 @@
 entity LiveStreamInfo {
-	regionName String
+	video_id String
 }
 
 paginate LiveStreamInfo with pagination, infinite-scroll
